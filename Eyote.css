@@ -1,0 +1,28 @@
+/*#D2C2B3 #262219 #FFFFF7 #6C97CC #795F3E*/
+
+a:visited {
+    color:#795F3E;
+}
+p {
+    text-indent: 50px;
+}
+p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+div {
+	background-color: #FFFFF7;
+    border: 25px solid #262219;
+    padding: 25px;
+    margin: 25px;
+}
+body{
+	color: #795F3E;
+	text-align: center;
+	text-align: justify;
+	font-size: 5;
+	background-color: #6C97CC;
+}
+div.altBG{
+	
+	background-color:#D2C2B3;
+}
